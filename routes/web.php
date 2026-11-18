@@ -12,7 +12,7 @@ Route::get('/', function () {
 Route::get('/about', function () {
     $profil = [
         'nama' => 'Jini Yufrianty Fallo',
-        'nim' => '2501010177',
+        'nim' => '2501010309',
         'hobbies' => ['Listening to Music', 'Dancing', 'Trying New Things'],
         'favorite_food' => [
             'Chicken Noodles and Other Noodles', 
